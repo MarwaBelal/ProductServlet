@@ -1,0 +1,6 @@
+com\example\productservlet\DeleteProductServlet.class
+com\example\productservlet\ProductRepo.class
+com\example\productservlet\Product.class
+com\example\productservlet\ProductListServlet.class
+com\example\productservlet\UpdateProductServlet.class
+com\example\productservlet\AddProductServlet.class
